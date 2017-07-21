@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+  <head>
+      <link rel="stylesheet" href="css/style.css">
+    <title> The Jungle Front </title>
+  </head>
+    <body>
+        <div id=vright1>
+            <p id=p13>
+                As you charge towards the palace, you see your comrades fall, as they are shot down by ARVN forces. Your battalion is steadily winning the battle, and your general gives orders to storm the palace. As you advance into the palace, you find yourself at the end of a hallway that leads left and right. You get to choose which hallway to continue down, as you are the leader of your party.   
+            </p>
+        </div>
+        <div id=vright2>
+            <p id=p14>
+                Will you take the left hallway which leads to the president's chambers, or will you take the right hallway towards the president's treasury?  
+            </p>
+            <form method="POST" action="/chambers">
+                <input type="submit" name="pg2" value="left">      
+            </form>  <br>
+                 <form method="POST" action="/treasury">
+            <input type="submit" name="pg2" value="right">
+            </form><br>
+        </div>
+    </body>
+</html>

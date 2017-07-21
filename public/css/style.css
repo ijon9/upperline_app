@@ -1,0 +1,298 @@
+body {
+    background-image:url(https://s-media-cache-ak0.pinimg.com/600x315/c9/46/87/c946879b0d22f95b7a12642ff24276f2.jpg);
+    background-size: 110%;
+    background-repeat: no-repeat;
+}
+#titlebox{
+    margin:auto;
+    height:40px;
+    width:300px;
+}
+#title{
+    text-align:center;
+    font-size:40px;
+    font-family: 'Black Ops One', cursive; 
+    color:red;
+}
+#textbox1{
+    margin-left:auto;
+    margin-right:auto;
+    margin-top:10%;
+    color:white;
+    text-align:center;
+    width:50%;
+    background-color:black;
+    border-radius:30px;
+    border-style:groove;
+}
+#p1{
+    text-align:center;
+    color:white;
+    font-size:21px;
+    
+}
+#tb2{
+    margin-left:auto;
+    margin-right:auto;
+    margin-top:3%;
+    color:white;
+    text-align:center;
+    width:50%;
+    background-color:black;
+    border-radius:30px;
+    border-style:groove;
+    
+}
+#p2{
+    text-align:center;
+    color:white;
+    font-size:21px;
+}
+#tb3{
+    margin-left:auto;
+    margin-right:auto;
+    margin-top:3%;
+    color:white;
+    text-align:center;
+    width:50%;
+    background-color:black;
+    border-radius:30px;
+    border-style:groove;
+}
+#p3{
+    text-align:center;
+    color:white;
+    font-size:21px;
+    
+}
+
+#tb4 {
+    margin-left:auto;
+    margin-right:auto;
+    margin-top:3%;
+    color:white;
+    text-align:center;
+    width:50%;
+    background-color:black;
+    border-radius:30px;
+    border-style:groove;
+}
+
+#p4 {
+    text-align:center;
+    color:white;
+    font-size:21px;
+}
+
+#p5 {
+    text-align:center;
+    color:white;
+    font-size:21px;
+    
+}
+
+#tb5 {
+    margin-left:auto;
+    margin-right:auto;
+    margin-top:3%;
+    color:white;
+    text-align:center;
+    width:50%;
+    background-color:black;
+    border-radius:30px;
+    border-style:groove;
+}
+.gameover {
+    top:50px;
+    margin:auto;
+    height:80px;
+    width:300px;
+    text-align:center;
+}
+.p7 {
+    text-align:center;
+    font-size:60px;
+    font-family: 'Black Ops One', cursive;
+    color:red;
+}
+#p6{
+    text-align:center;
+    color:white;
+    font-size:21px;
+    
+}
+
+#tb6 {
+    margin-left:auto;
+    margin-right:auto;
+    margin-top:3%;
+    color:white;
+    text-align:center;
+    width:60%;
+    background-color:black;
+    border-radius:30px;
+    border-style:groove;
+}
+
+#p8 {
+    text-align:center;
+    color:white;
+    font-size:21px;
+}
+
+#awrong1 {
+    margin-left:auto;
+    margin-right:auto;
+    margin-top:6%;
+    color:white;
+    text-align:center;
+    width:60%;
+    background-color:black;
+    border-radius:30px;
+    border-style:groove;
+}
+
+#vwrong1 {
+    margin-left:auto;
+    margin-right:auto;
+    margin-top:6%;
+    color:white;
+    text-align:center;
+    width:60%;
+    background-color:black;
+    border-radius:30px;
+    border-style:groove;
+}
+
+#p9 {
+    text-align:center;
+    color:white;
+    font-size:21px;
+}
+#aright1 {
+    margin-left:auto;
+    margin-right:auto;
+    margin-top:3%;
+    color:white;
+    text-align:center;
+    width:60%;
+    background-color:black;
+    border-radius:30px;
+    border-style:groove;
+}
+
+#p10 {
+    text-align:center;
+    color:white;
+    font-size:21px;
+}
+#aright2 {
+    margin-left:auto;
+    margin-right:auto;
+    margin-top:3%;
+    color:white;
+    text-align:center;
+    width:60%;
+    background-color:black;
+    border-radius:30px;
+    border-style:groove;
+}
+
+#p11 {
+    text-align:center;
+    color:white;
+    font-size:21px;
+}
+
+.awrong2 {
+    margin-left:auto;
+    margin-right:auto;
+    margin-top:7%;
+    color:white;
+    text-align:center;
+    width:60%;
+    background-color:black;
+    border-radius:30px;
+    border-style:groove;
+}
+
+.p12{
+    text-align:center;
+    color:white;
+    font-size:21px;
+}
+
+#vright1 {
+    margin-left:auto;
+    margin-right:auto;
+    margin-top:3%;
+    color:white;
+    text-align:center;
+    width:600px;
+    background-color:black;
+    border-radius:30px;
+    border-style:groove;
+}
+
+#vright2 {
+    margin-left:auto;
+    margin-right:auto;
+    margin-top:3%;
+    color:white;
+    text-align:center;
+    width:60%;
+    background-color:black;
+    border-radius:30px;
+    border-style:groove;
+}
+.avic2{
+    margin-left:auto;
+    margin-right:auto;
+    margin-top:3%;
+    color:white;
+    text-align:center;
+    width:60%;
+    background-color:black;
+    border-radius:30px;
+    border-style:groove;
+}
+
+.p15{
+    text-align:center;
+    color:white;
+    font-size:21px;
+}
+.avic1{
+    margin:auto;
+    height:40px;
+    width:300px;
+}
+.acongr{
+    text-align:center;
+    font-size:40px;
+    font-family: 'Anton', sans-serif;; 
+    color:yellow;
+}
+
+#p13 {
+    text-align:center;
+    color:white;
+    font-size:21px;
+} 
+
+#p14 {
+    text-align:center;
+    color:white;
+    font-size:21px;
+}
+#hypalinks { 
+    background-color:orange;
+    border-radius:30px;
+    border-style:groove;
+    color:white;
+    margin-left:auto;
+    margin-top:auto;
+    width:25%;
+    text-align:center;
+}
+     
